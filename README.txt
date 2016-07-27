@@ -9,3 +9,4 @@ USer 2 adding data - 1
 USer 2 adding data - 1 Version 2 changes commit
 USer 2 adding data - 1 Version 2 Adding to devBranch
 USer 2 adding data - 1 Version 2 Adding to devBugBranch
+USer 2 adding data - 1 Version 2 Adding to devBugBranch remote
